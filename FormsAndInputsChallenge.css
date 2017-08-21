@@ -1,0 +1,78 @@
+body {
+	background-color: #4495E4;
+}
+
+.logo {
+	height: 35px;
+	text-align: center;
+	width:100%;
+}
+
+.AnalogSea {
+	height: 35px;
+}
+
+.sign-up-button {
+	background-color: green;
+	color: white;
+	width: 320px;
+	padding: 15px;
+	text-align: center;
+
+	}
+
+.forgot-password-button {
+	color: gray;
+	text-decoration: underline;
+	margin: 10px;
+}
+
+.sign-up {
+	width: 360px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin: 0 auto;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+}
+
+a.log-in {
+	color: white;
+}
+
+.existing-account {
+	margin: 0 auto;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.sign-up-text {
+	font-size: 22px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+.forgotten-password {
+	margin-top: 5px;
+	text-align: center;
+	
+}
+
+.forgotten-password a{
+	color: gray;
+}
+
+.sign-up-form input{
+	width: 320px;
+	padding: 15px;
+}
+
+
+
+

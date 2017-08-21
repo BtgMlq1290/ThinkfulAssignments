@@ -1,0 +1,94 @@
+.GL {
+	top: 0px;
+	color: purple;
+	padding-left: 20px;
+	display: inline-block;
+	width: 50%;
+}
+
+.nav {
+	color: purple;
+	display: inline-block;
+	width: 48%;
+	text-align: right;
+}
+
+
+/*.nav:hover {
+	color: blue;
+}
+
+a:link {
+	color: purple;
+}
+
+a:visited {
+	color: black;
+}*/
+
+.nav a {
+	display: inline-block;
+}
+
+.header {
+	background-color: #EEEEEE;
+}
+
+body {
+	margin: 0px;
+}
+
+.content {
+	margin-top: 50px;
+	display: block;
+	padding: 20px;
+}
+
+.listing {
+	margin-bottom: 10px;
+}
+
+span.date, span.location {
+	color: gray;
+}
+
+span.title {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+	color: blue;
+}
+
+.prev-next-container {
+	border: 1px solid black;
+	border-radius: 5px;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.previous{
+	display: inline-block;
+	padding: 5px;
+}
+
+.listing-location {
+	display: inline-block;
+	padding: 5px;
+	text-align: center;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+}
+
+.next{
+	display: inline-block;
+	padding: 5px;
+}
+
+label {
+	font-style: bold;
+}
+
+
+
+
+

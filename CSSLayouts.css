@@ -1,0 +1,44 @@
+.green {
+	height: 200px;
+	background-color: green;
+}
+
+.border {
+}
+
+.blue {
+	height: 200px;
+	background-color: blue;
+}
+
+.gray {
+	height: 300px;
+	background-color: gray;
+}
+
+.black {
+	height: 300px;
+	background-color: black;
+  width: 34% !important;
+}
+
+.orange {
+	height: 300px;
+	background-color: orange;
+}
+
+.box {
+	font-size: 0px;
+  display: block;
+  border: 3px solid gray;
+}
+
+.half {
+	width: 50%;
+  display: inline-block;
+}
+
+.third {
+	width: 33%;
+  display: inline-block;
+}
